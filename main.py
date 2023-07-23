@@ -9,7 +9,6 @@ const = const.constants()
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 maximemangle = [60, 15, 13, 20]
-turnList = ["left", "right", "gohead"]
 
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
